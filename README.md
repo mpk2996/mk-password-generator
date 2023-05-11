@@ -6,3 +6,4 @@ This week's challenge involved the creation of a random password generator. This
 
 ## Usage
 
+![Untitled_ May 11, 2023 12_48 AM](https://github.com/mpk2996/mk-password-generator/assets/118133981/834f5d32-c61d-4bc5-807f-bfe9d0cb9fe1)
